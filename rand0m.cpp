@@ -1,5 +1,5 @@
 // Jonnathan Romero, May 2017
-// jonn.h
+// rand0m.cpp
 
 #ifndef JONN_H
 #define JONN_H
